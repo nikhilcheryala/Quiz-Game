@@ -67,3 +67,10 @@ This project implements a simple C++ quiz application with user accounts.
 ## Contributing:
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests with improvements and new features.
+
+## License
+
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+Just replace the repository URL (`https://github.com/nikhilcheryala/Quiz-Game`)
